@@ -94,7 +94,7 @@ nav ul li a:hover:after{
     width: 70%;
 }
 .content h1 span{
-    color: #fd4766;
+    background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#fd4766 79.69%);
 }
 .content p{
     width: 55%;
