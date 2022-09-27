@@ -13,7 +13,7 @@ a{
     width: 100%;
     height: 100vh;
     background: url(https://avatars.githubusercontent.com/u/93564256?v=4);
-    background-size: cover;
+    background-size: left;
 }
 nav{
     display: flex;
