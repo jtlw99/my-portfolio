@@ -12,8 +12,8 @@ a{
 .hero{
     width: 100%;
     height: 100vh;
-    background: url(https://avatars.githubusercontent.com/u/93564256?v=4);
-    background-size: left;
+    background: url(https://wallpapercave.com/wp/wp11261640.jpg);
+    background-size: cover;
 }
 nav{
     display: flex;
