@@ -94,13 +94,13 @@ nav ul li a:hover:after{
     width: 70%;
 }
 .content h1 span{
-  color: #1f1f25;
-  background: linear-gradient(to right, #ff0000, #9932cc);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -moz-text-fill-color: transparent;
-  -webkit-text-fill-color: transparent;
+    color: #1f1f25;
+    background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#fd4766 79.69%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
 }
 .content p{
     width: 55%;
