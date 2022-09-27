@@ -95,7 +95,7 @@ nav ul li a:hover:after{
 }
 .content h1 span{
   color: #1f1f25;
-  background: linear-gradient(45deg, #f3ec78, #af4261);
+  background: linear-gradient(to right, #ff0000, #9932cc);
   background-clip: text;
   -webkit-background-clip: text;
   -moz-background-clip: text;
