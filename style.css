@@ -68,7 +68,7 @@ nav ul li a:hover:after{
     transition: all .4s ease-in-out;
     background-size: 152% 100%;
     background: #fd4766;
-    border: 2px solid #fd4766;
+    border: 2px solid #ffffff;
 }
 .btn:hover{
     background: transparent;
