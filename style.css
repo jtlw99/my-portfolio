@@ -45,7 +45,7 @@ nav ul li a:hover{
 }
 nav ul li a:after{
     content: "";
-    position: absolute;
+    position: center;
     left: 0;
     width: 0;
     height: 3px;
