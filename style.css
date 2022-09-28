@@ -94,7 +94,6 @@ nav ul li a:hover:after{
     width: 70%;
 }
 .content h1 span{
-    font-size: 6rem;
     background: linear-gradient(45deg, #f3ec78, #af4261);
     background-clip: text;
     -webkit-background-clip: text;
