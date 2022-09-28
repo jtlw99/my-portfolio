@@ -33,7 +33,7 @@ nav ul li a{
     color: #1d1d24;
     position: relative;
     padding: 5px 0;
-    background: linear-gradient(45deg, #f3ec78, #af4261);
+    background: linear-gradient(to right, 45deg, #f3ec78, #af4261);
     background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -67,8 +67,8 @@ nav ul li a:hover:after{
     font-weight: 500;
     transition: all .4s ease-in-out;
     background-size: 152% 100%;
-    background: linear-gradient(45deg, #f3ec78, #af4261);
-    border: 2px solid #ffffff;
+    background: linear-gradient(to right, 45deg, #f3ec78, #af4261);
+    border: 1px solid #ffffff;
 }
 .btn:hover{
     background: transparent;
@@ -87,7 +87,7 @@ nav ul li a:hover:after{
     letter-spacing: 4px;
     display: inline-block;
     margin-bottom: 20px;
-    background: linear-gradient(45deg, #f3ec78, #af4261);
+    background: linear-gradient(to right, 45deg, #f3ec78, #af4261);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -100,7 +100,7 @@ nav ul li a:hover:after{
     width: 70%;
 }
 .content h1 span{
-    background: linear-gradient(45deg, #f3ec78, #af4261);
+    background: linear-gradient(to right, 45deg, #f3ec78, #af4261);
     background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
