@@ -76,14 +76,14 @@ nav ul li a:hover:after{
     color: #ffffff;
 }
 .content{
-    position: center;
+    position: absolute;
     top: 35%;
     left: 8%;
 }
 .content .title{
     color: #1f1f25;
     font-size: 15px;
-    position: relative;
+    position: absolute;
     text-transform: uppercase;
     letter-spacing: 4px;
     display: inline-block;
@@ -95,7 +95,6 @@ nav ul li a:hover:after{
 .content h1{
     color: #ffffff;
     font-size: 75px;
-    position: relative;
     font-weight: 900;
     line-height: 90px;
     text-transform: inherit;
