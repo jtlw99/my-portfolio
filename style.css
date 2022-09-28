@@ -41,7 +41,7 @@ nav ul li a{
     -webkit-text-fill-color: transparent;
 }
 nav ul li a:hover{
-    color: #fd4766;
+    color: #ffffff;
 }
 nav ul li a:after{
     content: "";
@@ -49,7 +49,7 @@ nav ul li a:after{
     left: 0;
     width: 0;
     height: 3px;
-    background: #fd4766;
+    background: #ffffff;
     transition: .3s;
     bottom: 0;
 }
@@ -72,8 +72,8 @@ nav ul li a:hover:after{
 }
 .btn:hover{
     background: transparent;
-    border-color: #fd4766;
-    color: #fd4766;
+    border-color: #ffffff;
+    color: #ffffff;
 }
 .content{
     position: absolute;
