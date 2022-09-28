@@ -33,6 +33,12 @@ nav ul li a{
     color: #1d1d24;
     position: relative;
     padding: 5px 0;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
 }
 nav ul li a:hover{
     color: #fd4766;
