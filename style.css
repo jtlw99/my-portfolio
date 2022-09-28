@@ -67,7 +67,7 @@ nav ul li a:hover:after{
     font-weight: 500;
     transition: all .4s ease-in-out;
     background-size: 152% 100%;
-    background: #fd4766;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
     border: 2px solid #ffffff;
 }
 .btn:hover{
