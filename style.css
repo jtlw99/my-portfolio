@@ -74,6 +74,7 @@ nav ul li a:hover:after{
 }
 .text p{
     font-size: 35px;
+    position: absolute;
     color: #fff;
     margin-top: 25px;
     margin-bottom: 30px;
@@ -81,6 +82,7 @@ nav ul li a:hover:after{
 .text h1{
     color: #fff;
     font-size: 75px;
+    position: center;
     font-weight: 900;
     line-height: 90px;
     text-transform: inherit;
@@ -88,6 +90,7 @@ nav ul li a:hover:after{
 }
 .text h1 span{
     font-size: 75px;
+    position: absolute;
     background: linear-gradient(45deg, #f3ec78, #af4261);
     background-clip: text;
     -webkit-background-clip: text;
