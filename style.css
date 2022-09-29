@@ -77,16 +77,6 @@ nav ul li a:hover:after{
     top: 35%;
     left: 8%;
 }
-.content h1{
-    font-size: 75px;
-    background: linear-gradient(45deg, #f3ec78, #af4261);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -moz-text-fill-color: transparent;
-    -webkit-text-fill-color: transparent;
-    display: inline-block
-}
 .text p{
     width: 55%;
     color: #757575;
