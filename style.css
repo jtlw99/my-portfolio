@@ -76,7 +76,16 @@ nav ul li a:hover:after{
     position: absolute;
     top: 35%;
     left: 8%;
-
+}
+.content h1{
+    font-size: 75px;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+    display: inline-block
 }
 .container {
   display: flex;
@@ -101,14 +110,4 @@ img {
     color: #757575;
     margin-top: 25px;
     margin-bottom: 30px;
-}
-h1{
-  font-size: 75px;
-  background: linear-gradient(45deg, #f3ec78, #af4261);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -moz-text-fill-color: transparent;
-  -webkit-text-fill-color: transparent;
-  display: inline-block
 }
