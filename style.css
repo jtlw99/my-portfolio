@@ -12,12 +12,6 @@ a{
 body {
   background-image: url("https://9to5mac.com/wp-content/uploads/sites/6/2022/06/7412.WWDC_2022_Dark-1024w-1366h@2xipad.jpeg?resize=1536,1536");
 }
-.hero{
-    width: 100%;
-    height: 100vh;
-    background: url(https://9to5mac.com/wp-content/uploads/sites/6/2022/06/7412.WWDC_2022_Dark-1024w-1366h@2xipad.jpeg?resize=1536,1536);
-    background-size: cover;
-}
 nav{
     display: flex;
     align-items: center;
