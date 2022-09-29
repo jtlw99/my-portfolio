@@ -72,11 +72,6 @@ nav ul li a:hover:after{
     border-color: #ffffff;
     color: #ffffff;
 }
-.content{
-    position: absolute;
-    top: 35%;
-    left: 8%;
-}
 .text p{
     width: 55%;
     color: #757575;
@@ -97,6 +92,14 @@ img {
   flex-basis: 40%
 }
 .text h1{
+    color: #fff;
+    font-size: 75px;
+    font-weight: 900;
+    line-height: 90px;
+    text-transform: inherit;
+    width: 70%;
+}
+.text h1 span{
     font-size: 75px;
     background: linear-gradient(45deg, #f3ec78, #af4261);
     background-clip: text;
