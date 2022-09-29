@@ -73,17 +73,10 @@ nav ul li a:hover:after{
     color: #ffffff;
 }
 .text p{
-    font-size: 75px;
+    font-size: 35px;
     color: #fff;
     margin-top: 25px;
     margin-bottom: 30px;
-}
-img {
-  max-width: 100%
-}
-
-.image {
-  flex-basis: 40%
 }
 .text h1{
     color: #fff;
