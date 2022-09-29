@@ -73,6 +73,7 @@ nav ul li a:hover:after{
     color: #ffffff;
 }
 .text p{
+    font-size: 75px;
     width: 55%;
     color: #757575;
     margin-top: 25px;
