@@ -106,8 +106,7 @@ img {
 .image {
   flex-basis: 40%
 }
-
-.text {
+.text h1{
     font-size: 75px;
     background: linear-gradient(45deg, #f3ec78, #af4261);
     background-clip: text;
