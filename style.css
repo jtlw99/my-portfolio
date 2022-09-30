@@ -80,7 +80,7 @@ nav ul li a:hover:after{
 }
 .text h1{
     color: #fff;
-    font-size: 60px;
+    font-size: 75px;
     font-weight: 900;
     line-height: 90px;
     text-transform: inherit;
@@ -102,4 +102,25 @@ nav ul li a:hover:after{
   align-items: center;
   height: 150px;
   background: #FFCEC2;
+}
+.footer-content-right {
+  padding-right:40px;
+  margin-top:20px;
+  float:center;
+}
+.icon-style text{
+  padding-right:40px;
+
+  margin-bottom:20px;
+  float:center;
+}
+.icon-style {
+  height:40px;
+  margin-left:20px;
+  margin-top:5px;
+}
+.icon-style:hover {
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    padding:2px;
+    border-radius: 10px;
 }
