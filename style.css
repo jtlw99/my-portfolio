@@ -99,3 +99,10 @@ nav ul li a:hover:after{
     -webkit-text-fill-color: transparent;
     display: inline-block
 }
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  background: #FFCEC2;
+}
