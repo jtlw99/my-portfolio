@@ -38,7 +38,7 @@ nav ul li a{
     -webkit-text-fill-color: transparent;
 }
 nav ul li a:hover{
-    color: #ffffff;
+    color: #fff;
 }
 nav ul li a:after{
     content: "";
@@ -57,15 +57,15 @@ nav ul li a:hover:after{
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
-    letter-spacing: 2px;
-    padding: 16px 40px;
-    border-radius: 500px;
+    letter-spacing: 1px;
+    padding: 14px 20px;
+    border-radius: 20px;
     display: inline-block;
     font-weight: 500;
     transition: all .4s ease-in-out;
     background-size: 152% 100%;
     background: transparent;
-    border: 1px solid #ffffff;
+    border: 2px solid #ffffff;
 }
 .btn:hover{
     background: transparent;
@@ -73,14 +73,14 @@ nav ul li a:hover:after{
     color: #ffffff;
 }
 .text p{
-    font-size: 35px;
+    font-size: 28px;
     color: #fff;
-    margin-top: 25px;
+    margin-top: 15px;
     margin-bottom: 30px;
 }
 .text h1{
     color: #fff;
-    font-size: 75px;
+    font-size: 60px;
     font-weight: 900;
     line-height: 90px;
     text-transform: inherit;
