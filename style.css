@@ -86,6 +86,16 @@ nav ul li a:hover:after{
     text-transform: inherit;
     width: 70%;
 }
+.text h2{
+    font-size: 20px;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+    display: inline-block
+}
 .text h1 span{
     font-size: 75px;
     background: linear-gradient(45deg, #f3ec78, #af4261);
@@ -104,8 +114,9 @@ nav ul li a:hover:after{
   background: #FFCEC2;
 }
 .footer-content-right {
+  background: linear-gradient(45deg, #f3ec78, #af4261);
   padding-right: 40px;
-  margin-top: 40px;
+  margin-top: -7px;
   float:center;
 }
 .icon-style {
