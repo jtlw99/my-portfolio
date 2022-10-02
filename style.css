@@ -151,7 +151,7 @@ section{
   height: calc(20vh - 70px);
 }
 .about{
-  background: #000;
+  background: transparent;
   padding-right: 35px;
   margin-top: -7px;
   margin-left: 12px;
@@ -183,4 +183,14 @@ section{
     line-height: 90px;
     text-transform: inherit;
     width: 70%;
+}
+.about p a{
+    font-size: 28px;
+    color: #fff;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
