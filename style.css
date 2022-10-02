@@ -18,8 +18,8 @@ body {
 .text p{
     font-size: 28px;
     color: #fff;
-    margin-top: 15px;
-    margin-bottom: 30px;
+    margin-top: 1px;
+    margin-bottom: 1px;
 }
 .text h1{
     color: #fff;
@@ -49,7 +49,7 @@ body {
 .footer-content-right {
   background: linear-gradient(45deg, #f3ec78, #af4261);
   padding-right: 40px;
-  margin-top: 7px;
+  margin-top: -7px;
   float:center;
 }
 .icon-style {
