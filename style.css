@@ -316,3 +316,16 @@ button:last-child:hover{
     font-weight: 20;
     background: transparent ;
 }
+.ete h1 span{
+    font-size: 80px;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+    display: inline-block
+}
