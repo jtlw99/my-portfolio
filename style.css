@@ -93,14 +93,14 @@ nav ul li{
   line-height: 70px;
   margin: 0 5px;
 }
-nav ul li a1{
+nav ul li a{
   color: white;
   font-size: 17px;
   padding: 7px 14px;
   border-radius: 10px;
   text-transform: uppercase;
 }
-a1.active,a1:hover{
+a.active,a:hover{
     background: linear-gradient(45deg, #f3ec78, #af4261);
     transition: .5s;
     border-radius: 10px;
