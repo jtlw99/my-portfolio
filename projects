@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>JustinL | Home</title>
+	<link rel="icon" href="https://avatars.githubusercontent.com/u/93564256?v=4" />
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1.0">
+	<meta name="description" content="JustinL" />
+	<!----CSS link---->
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+	<div class="hero">
+		<nav>
+			<input type="checkbox" id="check">
+			<label for="check" class="checkbtn">
+	        <i class="fas fa-bars"></i>
+	      </label>
+			<a href="https://justinlewis.vercel.app/"><img src="https://avatars.githubusercontent.com/u/93564256?v=4" class="logo" alt="logo"></a>
+				<ul>
+					<li><a href="https://justinlewis.vercel.app/">Home</a></li>
+					<li><a href="/about.html">About</a></li>
+					<li><a class="active" href="/projects.html">Projects</a></li>
+					<li><a href="#contact">Contact</a></li>
+					<li><a href="https://sites.google.com/view/justinl-dev/home">Old site</a></li>
+				</ul>
+		</nav>
+		<section></section>
+	</div>
+	<center>
+		<div class="text">
+			<h1>My <span>Projects</span>.</h1>
+			<p>This is what I current working on!</p>
+			</div>
+		<div class="wrapper">
+			<div class="cart-nav">
+				<div class="icon">
+					<i class="fas fa-shopping-cart"></i>
+					<span></span>
+				</div>
+				<div class="item-count"></div>
+				</div>
+			<div class="card">
+				<img src="https://media.discordapp.net/attachments/921011982465896518/1026048094783152168/Screenshot_2022-10-02_152817.png" alt="">
+				<div class="content">
+					<div class="row">
+						<div class="details">
+							<span>My portfolio</span>
+							<p>my portfolio</p>
+						</div>
+						<div class="price">$30</div>
+					</div>
+					<div class="buttons">
+						<button>Buy Now</button>
+						<button class="cart-btn">Add to Cart</button>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<img src="https://media.discordapp.net/attachments/921011982465896518/1026048094783152168/Screenshot_2022-10-02_152817.png" alt="">
+				<div class="content">
+					<div class="row">
+						<div class="details">
+							<span>Apple Watch</span>
+							<p>Premium digital watch</p>
+						</div>
+						<div class="price">$80</div>
+					</div>
+					<div class="buttons">
+						<button>Buy Now</button>
+						<button class="cart-btn">Add to Cart</button>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<img src="https://media.discordapp.net/attachments/921011982465896518/1026048094783152168/Screenshot_2022-10-02_152817.png" alt="">
+				<div class="content">
+					<div class="row">
+						<div class="details">
+							<span>Apple Airpod</span>
+							<p>Premium black airpod</p>
+						</div>
+						<div class="price">$50</div>
+					</div>
+					<div class="buttons">
+						<button>Buy Now</button>
+						<button class="cart-btn">Add to Cart</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="script.js"></script>
+			<div class="footer-content-right">
+				<a href="https://github.com/justinl99"><img src="https://media.macosicons.com/parse/files/macOSicons/ffaaf6a3bd852967d8e7f6800a6af548_low_res_Github.png" class="icon-style" alt="Github icon"></a>
+					<a href="https://twitter.com/Anhc02575791"><img src="https://media.macosicons.com/parse/files/macOSicons/ca9cf6cb5377d58f60b93ace77b804a2_low_res_Twitter.png" class="icon-style" alt="Twitter icon"></a>
+						<a href="mailto:huynhducanh1980@gmail.com"><img src="https://media.macosicons.com/parse/files/macOSicons/4aa78d1ac1222badd1151fbf2c5082d5_Mail.png" class="icon-style" alt="Email icon"></a>
+							<a href="https://www.instagram.com/justinl_dev/"><img src="https://media.macosicons.com/parse/files/macOSicons/4b861a87491efcb1579167a1491b95df_low_res_Instagram.png" class="icon-style" alt="Instagram icon"></a>
+								<p>Make with ❤️ by justinl99</p>
+			</div>
+		</div>
+	</center>
+</body>
+
+</html>
