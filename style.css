@@ -29,16 +29,6 @@ body {
     text-transform: inherit;
     width: 70%;
 }
-.text h2{
-    font-size: 20px;
-    background: linear-gradient(45deg, #f3ec78, #af4261);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -moz-text-fill-color: transparent;
-    -webkit-text-fill-color: transparent;
-    display: inline-block
-}
 .text h1 span{
     font-size: 75px;
     background: linear-gradient(45deg, #f3ec78, #af4261);
@@ -161,9 +151,36 @@ section{
   height: calc(20vh - 70px);
 }
 .about{
-  background: #fff;
-  padding-right: 40px;
+  background: #000;
+  padding-right: 35px;
   margin-top: -7px;
+  margin-left: 12px;
+  margin-right: 12px;
   float:center;
   border-radius: 10px;
+}
+.about h1 span{
+    font-size: 75px;
+    margin-top: 12px;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+    display: inline-block
+}
+.about p{
+    font-size: 28px;
+    color: #fff;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.about h1{
+    color: #fff;
+    font-size: 75px;
+    font-weight: 900;
+    line-height: 90px;
+    text-transform: inherit;
+    width: 70%;
 }
