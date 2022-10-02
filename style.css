@@ -197,7 +197,7 @@ section{
 .wrapper{
   position: relative;
   max-width: 1120px;
-  height: 250px;
+  height: 400px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -268,10 +268,7 @@ section{
 }
 .content .row .details span{
   font-size: 22px;
-  font-weight: 500;
-}
-.content .buttons{
-  margin-top: 20px;
+  font-weight: 600;
 }
 .content .buttons button{
   width: 100%;
