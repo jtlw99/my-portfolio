@@ -300,3 +300,19 @@ button:last-child:hover{
   background: #ff6666;
   border-color: #ff6666;
 }
+.link{
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    width: 100%;
+    padding: 9px 0px;
+    outline: none;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 17px;
+    border-radius: 10px;
+}
+.link p{
+    color: #000;
+    font-size: 17px;
+    font-weight: 20;
+    background: transparent ;
+}
