@@ -50,7 +50,7 @@ body {
   background: linear-gradient(45deg, #f3ec78, #af4261);
   padding-right: 40px;
   margin-top: -7px;
-  float: inline-end;
+  float:inline-end;
 }
 .icon-style {
   height: 40px;
