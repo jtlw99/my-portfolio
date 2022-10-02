@@ -59,14 +59,13 @@ body {
 .footer-content-right {
   background: linear-gradient(45deg, #f3ec78, #af4261);
   padding-right: 40px;
-  margin-top: -7px;
+  margin-top: 7px;
   float:center;
-  border-radius: 10px;
 }
 .icon-style {
   height: 40px;
   margin-left: 5px;
-  margin-top: 5px;
+  margin-top: 7px;
 }
 .icon-style:hover {
     background: linear-gradient(45deg, #f3ec78, #af4261);
@@ -160,4 +159,11 @@ section{
   background: url(bg1.jpg) no-repeat;
   background-size: cover;
   height: calc(20vh - 70px);
+}
+.about{
+  background: #fff;
+  padding-right: 40px;
+  margin-top: -7px;
+  float:center;
+  border-radius: 10px;
 }
