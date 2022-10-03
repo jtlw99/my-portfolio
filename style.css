@@ -10,7 +10,12 @@ a{
     text-decoration: none;
 }
 body {
-  background-image: url("https://9to5mac.com/wp-content/uploads/sites/6/2022/06/7412.WWDC_2022_Dark-1024w-1366h@2xipad.jpeg?resize=1536,1536");
+  background-image: url("https://media.idownloadblog.com/wp-content/uploads/2022/06/iPadOS-16-wallpaper-from-WWDC-2022.jpg");
+  background-size: cover;
+}
+.dark-mode {
+  background-image: url("https://media.idownloadblog.com/wp-content/uploads/2022/06/iPadOS-16-wallpaper-from-WWDC-2022-Dark-Mode.jpg");
+  background-size: cover;
 }
 .logo{
     max-height: 60px;
