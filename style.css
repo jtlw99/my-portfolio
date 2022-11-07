@@ -57,7 +57,7 @@ body {
   margin-top: -7px;
   float:inline-end;
 }
-.icon-style {
+.icon-style{
   height: 40px;
   margin-left: 5px;
   margin-top: 7px;
@@ -67,6 +67,7 @@ body {
     padding: 0.5px;
     border-radius: 10px;
 }
+
 nav{
   background: transparent;
   height: 70px;
@@ -94,10 +95,13 @@ nav ul li a{
   border-radius: 10px;
   text-transform: uppercase;
 }
-a.active,a:hover{
+a.active{
     background: linear-gradient(45deg, #f3ec78, #af4261);
     transition: .5s;
     border-radius: 10px;
+}
+a.hover{
+  
 }
 .checkbtn{
   font-size: 30px;
